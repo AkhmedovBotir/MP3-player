@@ -1,0 +1,43 @@
+    h2{
+        font-family: cursive;
+        margin: 0;
+        padding: 0;
+    }
+    .player{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 5rem;
+    position: fixed;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;
+    font: bolder;
+    border: 2px solid black;
+    cursor: pointer;
+    }
+    .orqaga{
+        border-right: 2px solid black;
+        padding: 50px;
+    }
+    .pause{
+        border-right: 2px solid black;
+        padding: 50px;
+    }
+    .play{
+        border-right: 2px solid black;
+        padding: 50px;
+    }
+    .keyin{
+        padding: 50px;
+    }
+    #pausa{
+        display: none;
+    }
+    svg{
+        width: 60px;
+    }
